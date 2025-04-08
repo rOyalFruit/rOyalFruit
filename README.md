@@ -20,6 +20,6 @@ Here are some ideas to get you started:
   
 ---
 
-![rOyalFruit's github stats](https://github-readme-stats.vercel.app/api?username=rOyalFruit&show_icons=true&theme=tokyonight)
+![rOyalFruit's github stats](https://github-readme-stats.vercel.app/api?username=rOyalFruit&show_icons=true&theme=tokyonight&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rOyalFruit&layout=compact&theme=tokyonight)
 </div>
