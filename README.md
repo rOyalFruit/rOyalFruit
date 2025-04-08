@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/rOyalFruit?pet-id=697453631521518835"" width="25%" height="120"/>
-  <img src="https://render.gitanimals.org/lines/rOyalFruit?pet-id=697453723540352590" width="25%" height="120"/>
+  <img src="https://render.gitanimals.org/lines/rOyalFruit?pet-id=697453631521518835" width="45%" height="120"/>
+  <img src="https://render.gitanimals.org/lines/rOyalFruit?pet-id=697453723540352590" width="45%" height="120"/>
 </a>
   
 ---
